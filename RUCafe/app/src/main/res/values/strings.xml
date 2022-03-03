@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RUCafe</string>
+    <string name="coffeeText">Order Coffee!</string>
+    <string name="donutText">Order Donuts :)</string>
+    <string name="OrderText">Your Order</string>
+    <string name="StoreOrdersText">Store Orders</string>
+    <string name="RUCafe">RU Cafe</string>
+    <string name="ContentDescription">tools:ignore=\"ContentDescription\"</string>
+    <string name="OrderingDonuts">Ordering Donuts</string>
+    <string name="Flavors">List of Flavors</string>
+    <string name="flavor1">Glazed</string>
+    <string name="flavor2">Jelly</string>
+    <string name="flavor3">Blueberry</string>
+    <string name="flavor4">Boston Cream</string>
+    <string name="donut_order">Add to Order</string>
+    <string name="flavor5">Strawberry</string>
+    <string name="orderCoffee">ORDERING COFFEE</string>
+    <string name="coffeeImage">"Shows coffee icon. "</string>
+    <string name="syrup">Syrup</string>
+    <string name="caramel">Caramel</string>
+    <string name="whippedcream">Whipped Cream</string>
+    <string name="milk">Milk</string>
+    <string name="cream">Cream</string>
+    <string name="orderButton">Add to order</string>
+    <string name="SubTotal">Sub-Total</string>
+    <string name="SalesTax">Sales Tax</string>
+    <string name="total">Total</string>
+    <string name="Order">Orders</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>Short</item>
+        <item>Tall</item>
+        <item>Grande</item>
+        <item>Venti</item>
+    </string-array>
+
+
+</resources>
