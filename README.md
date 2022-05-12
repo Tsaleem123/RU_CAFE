@@ -5,11 +5,11 @@ the required components to run this project. You will want to also install
 the virtual device "Pixel 3A" with an API level of 30 to make sure the app
 runs correctly. If you don't have intelliJ or face issues, changing the gradle 
 version may be helpful: Gradle 6.1.1 
------------
+
 Description:
 Coffee and Donut ordering application. Coffees and donuts can stored into a order list, 
 the order list containing a set number of menu items can be stored into the list of orders. 
------------
+
 Functionality:
 Coffee objects can be added to an order list. A coffee can have a size, quantity and list of addins.
 Donut objects can also be added to the order list. A donut object has a donut type and quantity.
@@ -20,6 +20,5 @@ into the list of orders. The "Store Orders" tab let's you see the list of orders
 the list of orders lets you remove an order that you click on. The final price of all orders is also 
 computed in this tab.
 
------------
 Example/Overview:
 https://www.youtube.com/watch?v=t65obG5m7MQ
