@@ -21,4 +21,4 @@ the list of orders lets you remove an order that you click on. The final price o
 computed in this tab.
 
 Example/Overview:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t65obG5m7MQ/0.jpg)](https://www.youtube.com/watch?v=watch?v=t65obG5m7MQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t65obG5m7MQ/0.jpg)](https://www.youtube.com/watch?v=t65obG5m7MQ)
